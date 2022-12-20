@@ -1,0 +1,30 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Development\MagicLeapLightEstimation\Definitions.MagicLeapLightEstimation.h
+D:/UnrealEngine-4.26/Engine/Plugins/Lumin/MagicLeapLightEstimation/Source/MagicLeapLightEstimation/Private/LightingTrackingComponent.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Lumin\MagicLeapLightEstimation\Source\MagicLeapLightEstimation\Public\LightingTrackingComponent.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\MagicLeapLightEstimation\LightingTrackingComponent.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapper.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\ImageWrapper\Public\IImageWrapperModule.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Engine/TextureCube.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\Engine\TextureCube.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\EngineUtils.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/PostProcessComponent.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\Engine\ShapeComponent.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\Interfaces/Interface_PostProcessVolume.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\Engine\Interface_PostProcessVolume.generated.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\Engine\PostProcessComponent.generated.h
+D:\UnrealEngine-4.26\Engine\Plugins\Lumin\MagicLeapLightEstimation\Source\MagicLeapLightEstimation\Public\IMagicLeapLightEstimationPlugin.h
+D:\UnrealEngine-4.26\Engine\Plugins\Lumin\MagicLeapLightEstimation\Source\MagicLeapLightEstimation\Public\MagicLeapLightEstimationTypes.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\MagicLeapLightEstimation\MagicLeapLightEstimationTypes.generated.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\limits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cfloat
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cwchar
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cstdio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\isa_availability.h
+D:/UnrealEngine-4.26/Engine/Plugins/Lumin/MagicLeapLightEstimation/Source/MagicLeapLightEstimation/Private/MagicLeapLightEstimationFunctionLibrary.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Lumin\MagicLeapLightEstimation\Source\MagicLeapLightEstimation\Public\MagicLeapLightEstimationFunctionLibrary.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\MagicLeapLightEstimation\MagicLeapLightEstimationFunctionLibrary.generated.h
+D:\UnrealEngine-4.26\Engine\Plugins\Lumin\MagicLeapLightEstimation\Source\MagicLeapLightEstimation\Private\MagicLeapLightEstimationModule.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Lumin/CAPIShims/LuminAPI.h
+D:/UnrealEngine-4.26/Engine/Plugins/Lumin/MagicLeapLightEstimation/Source/MagicLeapLightEstimation/Private/MagicLeapLightEstimationModule.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Lumin\MLSDK\Source\MLSDK\Public\Lumin/CAPIShims/LuminAPILightingTracking.h

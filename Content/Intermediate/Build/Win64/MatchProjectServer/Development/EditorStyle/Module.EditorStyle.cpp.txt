@@ -1,0 +1,14 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Development\EditorStyle\Definitions.EditorStyle.h
+D:/UnrealEngine-4.26/Engine/Source/Editor/EditorStyle/Private/EditorFontGlyphs.cpp
+D:\UnrealEngine-4.26\Engine\Source\Editor\EditorStyle\Public\EditorFontGlyphs.h
+D:/UnrealEngine-4.26/Engine/Source/Editor/EditorStyle/Private/EditorStyleClasses.cpp
+D:\UnrealEngine-4.26\Engine\Source\Editor\EditorStyle\Public\Classes/EditorStyleSettings.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\EditorStyle\EditorStyleSettings.generated.h
+D:/UnrealEngine-4.26/Engine/Source/Editor/EditorStyle/Private/EditorStyleModule.cpp
+D:\UnrealEngine-4.26\Engine\Source\Editor\EditorStyle\Public\Interfaces/IEditorStyleModule.h
+D:\UnrealEngine-4.26\Engine\Source\Editor\EditorStyle\Private\SlateEditorStyle.h
+D:\UnrealEngine-4.26\Engine\Source\Editor\EditorStyle\Public\EditorStyleSet.h
+D:\UnrealEngine-4.26\Engine\Source\Developer\Settings\Public\ISettingsModule.h
+D:/UnrealEngine-4.26/Engine/Source/Editor/EditorStyle/Private/EditorStyleSet.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyleRegistry.h
+D:/UnrealEngine-4.26/Engine/Source/Editor/EditorStyle/Private/SlateEditorStyle.cpp

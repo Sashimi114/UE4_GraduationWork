@@ -1,0 +1,7 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Development\PlatformCrypto\Definitions.PlatformCrypto.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\PlatformCrypto\Source\PlatformCrypto\Public\IPlatformCrypto.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\PlatformCrypto\Source\PlatformCrypto\Public\PlatformCryptoIncludes.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\PlatformCrypto\Source\PlatformCryptoOpenSSL\Public\EncryptionContextOpenSSL.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\PlatformCrypto\Source\PlatformCryptoTypes\Public\PlatformCryptoTypes.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/IEngineCrypto.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h

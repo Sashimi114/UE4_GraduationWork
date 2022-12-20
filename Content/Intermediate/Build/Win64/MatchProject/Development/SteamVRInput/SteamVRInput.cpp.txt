@@ -1,0 +1,29 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProject\Development\SteamVRInput\Definitions.SteamVRInput.h
+D:\UnrealEngine-4.26\Engine\Plugins\Runtime\Steam\SteamVR\Source\SteamVRInput\Public\SteamVRInput.h
+D:\UnrealEngine-4.26\Engine\Source\ThirdParty\OpenVR\OpenVRv1_5_17\headers\openvr.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\string
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\iosfwd
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cstdio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cwchar
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xmemory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\limits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cfloat
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\climits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\intrin0.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\isa_availability.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xatomic.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xutility
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\utility
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cctype
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h

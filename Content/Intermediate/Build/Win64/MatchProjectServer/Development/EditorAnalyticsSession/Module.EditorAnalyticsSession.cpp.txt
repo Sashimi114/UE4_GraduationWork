@@ -1,0 +1,16 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Development\EditorAnalyticsSession\Definitions.EditorAnalyticsSession.h
+D:/UnrealEngine-4.26/Engine/Source/Developer/EditorAnalyticsSession/Private/EditorAnalyticsSession.cpp
+D:\UnrealEngine-4.26\Engine\Source\Developer\EditorAnalyticsSession\Public\EditorAnalyticsSession.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Internationalization/Regex.h
+D:/UnrealEngine-4.26/Engine/Source/Developer/EditorAnalyticsSession/Private/EditorSessionSummarySender.cpp
+D:\UnrealEngine-4.26\Engine\Source\Developer\EditorAnalyticsSession\Public\EditorSessionSummarySender.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Analytics\Analytics\Public\AnalyticsEventAttribute.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Analytics\Analytics\Public\AnalyticsConversion.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Algo/Transform.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Analytics\AnalyticsET\Public\IAnalyticsProviderET.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Analytics\AnalyticsET\Public\AnalyticsET.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Analytics\Analytics\Public\Interfaces/IAnalyticsProviderModule.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Analytics\Analytics\Public\AnalyticsProviderConfigurationDelegate.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Analytics\Analytics\Public\Interfaces/IAnalyticsProvider.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCrashContext.h

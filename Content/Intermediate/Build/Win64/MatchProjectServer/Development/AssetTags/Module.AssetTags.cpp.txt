@@ -1,0 +1,14 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Development\AssetTags\Definitions.AssetTags.h
+D:/UnrealEngine-4.26/Engine/Plugins/Runtime/AssetTags/Source/AssetTags/Private/AssetTagsModule.cpp
+D:/UnrealEngine-4.26/Engine/Plugins/Runtime/AssetTags/Source/AssetTags/Private/AssetTagsSubsystem.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Runtime\AssetTags\Source\AssetTags\Public\AssetTagsSubsystem.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\AssetTags\AssetTagsSubsystem.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\AssetRegistry\Public\IAssetRegistry.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\AssetRegistry\IAssetRegistry.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryState.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryState.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistryModule.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h

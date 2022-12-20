@@ -1,0 +1,91 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProject\Development\RHI\Definitions.RHI.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/RHI/Private/BoundShaderStateCache.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\BoundShaderStateCache.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHI.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHIDefinitions.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\PixelFormat.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\MultiGPU.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHIValidationCommon.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHIResources.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\DynamicRHI.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHIContext.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHIUtilities.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHICommandList.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Async/Future.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\atomic
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xatomic.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\intrin0.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xthreads.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\climits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xtimec.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHICommandList.inl
+D:/UnrealEngine-4.26/Engine/Source/Runtime/RHI/Private/DynamicRHI.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformDriver.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCrashContext.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\PipelineStateCache.h
+D:\UnrealEngine-4.26\Engine\Source\ThirdParty\NVIDIA\GeForceNOW\include\GfnRuntimeSdk_CAPI.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/RHI/Private/GPUDefragAllocator.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\GPUDefragAllocator.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Math/RandomStream.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Stats/StatsMisc.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedTimers.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/RHI/Private/GPUProfiler.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\GPUProfiler.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/WildcardString.h
+D:\UnrealEngine-4.26\Engine\Source\Developer\TaskGraph\Public\VisualizerEvents.h
+D:\UnrealEngine-4.26\Engine\Source\Developer\TaskGraph\Public\STaskGraph.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/RHI/Private/GpuProfilerTrace.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\GpuProfilerTrace.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.inl
+D:\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/EventNode.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Field.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Atomic.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocol.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol0.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol1.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol2.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol3.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol4.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Writer.inl
+D:\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/LogScope.inl
+D:\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\LogScope.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/RHI/Private/MultiGPU.cpp
+D:/UnrealEngine-4.26/Engine/Source/Runtime/RHI/Private/PipelineFileCache.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\PipelineFileCache.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/MemoryReader.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/ScopeRWLock.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Async/AsyncFileHandle.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\String/LexFromString.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\String/ParseTokens.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/RHI/Private/PipelineStateCache.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/TimeGuard.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/DiscardableKeyValueCache.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/RHI/Private/RHI.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHIShaderFormatDefinitions.inl
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Stats/StatsData.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/DataDrivenPlatformInfoRegistry.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/RHI/Private/RHICommandList.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHICommandListCommandExecutes.inl
+D:/UnrealEngine-4.26/Engine/Source/Runtime/RHI/Private/RHIGPUReadback.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHIGPUReadback.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/RHI/Private/RHIUtilities.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformStackWalk.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformStackWalk.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStackWalk.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/RunnableThread.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/RHI/Private/RHIValidation.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHIValidation.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHIValidationUtils.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHIValidationContext.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/RHI/Private/Windows/WindowsDynamicRHI.cpp

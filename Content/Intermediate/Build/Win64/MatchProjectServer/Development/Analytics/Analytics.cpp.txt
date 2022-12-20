@@ -1,0 +1,5 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Development\Analytics\Definitions.Analytics.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Analytics\Analytics\Public\Analytics.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Analytics\Analytics\Public\AnalyticsProviderConfigurationDelegate.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Analytics\Analytics\Public\AnalyticsBuildType.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Analytics\Analytics\Public\Interfaces/IAnalyticsProviderModule.h

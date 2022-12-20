@@ -1,0 +1,18 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProject\Development\BuildSettings\Definitions.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\BuildSettings\Public\BuildSettings.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\CoreTypes.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/Platform.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/Build.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL\PreprocessorHelpers.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerPreSetup.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCompilerPreSetup.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatform.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCodeAnalysis.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatform.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\sal.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\concurrencysal.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\MSVC/MSVCPlatform.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerSetup.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/UMemoryDefines.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/CoreMiscDefines.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/CoreDefines.h

@@ -1,0 +1,148 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProject\Development\DynamicMesh\Definitions.DynamicMesh.h
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/DynamicMesh3.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\DynamicMesh3.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\BoxTypes.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\VectorTypes.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\MathUtil.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cmath
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\intrin0.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cfloat
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\sstream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\istream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\ostream
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\ios
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xlocnum
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\climits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cstdio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\iterator
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\iosfwd
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cwchar
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xutility
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\utility
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\streambuf
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xiosbase
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\share.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\system_error
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\__msvc_system_error_abi.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cerrno
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\stdexcept
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xmemory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\limits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\isa_availability.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xatomic.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xcall_once.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xerrc.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\atomic
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xthreads.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xtimec.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xlocale
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\memory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\typeinfo
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\vcruntime_exception.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_terminate.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xfacet
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xlocinfo
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\__msvc_xlocinfo_types.hpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cctype
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\clocale
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\locale.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\string
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\TransformTypes.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Quaternion.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\MatrixTypes.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\VectorUtil.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\IndexTypes.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\FrameTypes.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\RayTypes.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\GeometryTypes.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\InfoTypes.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/CompactMaps.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/DynamicVector.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/IndexUtil.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/IteratorUtil.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/RefCountVector.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/SmallListSet.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\DynamicMeshAttributeSet.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\DynamicMeshOverlay.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\DynamicMeshTriangleAttribute.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\DynamicAttribute.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Generators/MeshShapeGenerator.h
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/DynamicMesh3_Edits.cpp
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/DynamicMesh3_Queries.cpp
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/DynamicMeshAttributeSet.cpp
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/DynamicMeshChangeTracker.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\DynamicMeshChangeTracker.h
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/DynamicMeshEditor.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\DynamicMeshEditor.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\EdgeLoop.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/SparseIndexCollectionTypes.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/BufferUtil.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\MeshRegionBoundaryLoops.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\DynamicSubmesh3.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\MeshNormals.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\MeshQueries.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Distance/DistPoint3Triangle3.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\TriangleTypes.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/IntrRay3Triangle3.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/IntrTriangle3Triangle3.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\PlaneTypes.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/IntrSegment2Triangle2.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\SegmentTypes.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/IntrLine2Triangle2.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\LineTypes.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/Intersector1.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Intersection/IntrTriangle2Triangle2.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Algo/Accumulate.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Async/ParallelFor.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/Fork.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\Selections/MeshConnectedComponents.h
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/DynamicMeshModule.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\DynamicMeshModule.h
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/DynamicMeshOverlay.cpp
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/EdgeLoop.cpp
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/EdgeSpan.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\EdgeSpan.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Polyline3.h
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/FaceGroupUtil.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\FaceGroupUtil.h
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/GroupTopology.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\GroupTopology.h
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/MeshAdapterUtil.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\MeshAdapterUtil.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\DynamicPointSet3.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\PointSetAdapter.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\MeshAdapter.h
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/MeshBoundaryLoops.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\MeshBoundaryLoops.h
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/MeshConstraintsUtil.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\MeshConstraintsUtil.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\MeshConstraints.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Spatial/SpatialInterfaces.h
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/MeshCurvature.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\MeshCurvature.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Sampling/SampleSetStatistics.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\MeshWeights.h
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/MeshIndexUtil.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\MeshIndexUtil.h
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/MeshNormals.cpp
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/MeshRefinerBase.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\MeshRefinerBase.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/ProgressCancel.h
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/MeshRegionBoundaryLoops.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Algo/ForEach.h
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/MeshSimplification.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\MeshSimplification.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\QuadricError.h
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\GeometricObjects\Public\Util/IndexPriorityQueue.h
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/MeshTangents.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\MeshTangents.h
+D:/UnrealEngine-4.26/Engine/Plugins/Experimental/GeometryProcessing/Source/DynamicMesh/Private/MeshTransforms.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Experimental\GeometryProcessing\Source\DynamicMesh\Public\MeshTransforms.h

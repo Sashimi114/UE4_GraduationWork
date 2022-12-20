@@ -1,0 +1,6 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProject\Development\ImageCore\Definitions.ImageCore.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\ImageCore\Public\ImageCore.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Async/ParallelFor.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/Fork.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h

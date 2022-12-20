@@ -1,0 +1,83 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Development\MSQS\Definitions.MaterialShaderQualitySettings.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/MaterialShaderQualitySettings/Private/MaterialShaderQualitySettings.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\MaterialShaderQualitySettings\Classes\MaterialShaderQualitySettings.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHIDefinitions.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\PixelFormat.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Public\SceneTypes.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\Engine\SceneTypes.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/SparseDelegate.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPathProperty.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\MaterialShaderQualitySettings\MaterialShaderQualitySettings.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/Package.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageId.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/LinkerSave.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/FileRegions.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ObjectResource.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/Linker.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Internationalization/GatherableTextData.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Internationalization/InternationalizationMetadata.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PackageFileSummary.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/CustomVersion.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/SavePackage.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UObjectThreadContext.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/WorldCompositionUtility.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceError.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/ObjectThumbnail.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Async/Future.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\MaterialShaderQualitySettings\Classes\ShaderPlatformQualitySettings.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\MaterialShaderQualitySettings\ShaderPlatformQualitySettings.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHI.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\MultiGPU.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHIValidationCommon.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHIResources.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\DynamicRHI.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHIContext.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHIUtilities.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHICommandList.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/App.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/TVariant.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc\TVariantMeta.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\atomic
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xatomic.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\intrin0.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xthreads.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\climits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xtimec.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\RHI\Public\RHICommandList.inl
+D:\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatform.h
+D:\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetDevice.h
+D:\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/TargetDeviceId.h
+D:\UnrealEngine-4.26\Engine\Source\Developer\TargetPlatform\Public\Interfaces/ITargetPlatformManagerModule.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/MaterialShaderQualitySettings/Private/MaterialShaderQualitySettingsCustomization.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\MaterialShaderQualitySettings\Classes\MaterialShaderQualitySettingsCustomization.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/MaterialShaderQualitySettings/Private/MaterialShaderQualitySettingsModule.cpp

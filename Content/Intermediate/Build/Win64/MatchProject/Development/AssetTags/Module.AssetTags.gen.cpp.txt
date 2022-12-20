@@ -1,0 +1,7 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProject\Development\AssetTags\Definitions.AssetTags.h
+D:/MatchProject/Intermediate/Build/Win64/MatchProject/Inc/AssetTags/AssetTags.init.gen.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:/MatchProject/Intermediate/Build/Win64/MatchProject/Inc/AssetTags/AssetTagsSubsystem.gen.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Runtime\AssetTags\Source\AssetTags/Public/AssetTagsSubsystem.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\AssetTags\AssetTagsSubsystem.generated.h

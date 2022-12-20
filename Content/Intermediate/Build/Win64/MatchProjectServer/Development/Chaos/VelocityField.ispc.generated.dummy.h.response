@@ -1,0 +1,18 @@
+-h "D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Development\Chaos\VelocityField.ispc.generated.dummy.h"
+--target-os=windows
+--arch=x86-64
+--target=avx512skx-i32x8,avx2,avx,sse4,sse2
+-I"D:\UnrealEngine-4.26\Engine\Source"
+-I"D:\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\Chaos\Private"
+-I"D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\Chaos"
+-I"D:\UnrealEngine-4.26\Engine\Source\Runtime\Experimental"
+-I"D:\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\Chaos\Public"
+-I"D:\UnrealEngine-4.26\Engine\Source\Runtime"
+-I"D:\UnrealEngine-4.26\Engine\Source\Runtime\TraceLog\Public"
+-I"D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public"
+-I"D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\CoreUObject"
+-I"D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public"
+-I"D:\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\ChaosCore\Public"
+-I"D:\UnrealEngine-4.26\Engine\Source\ThirdParty\Intel"
+-I"D:\UnrealEngine-4.26\Engine\Source\Runtime\Experimental\Voronoi\Public"
+-MMM "D:/MatchProject/Intermediate/Build/Win64/MatchProjectServer/Development/Chaos/VelocityField.ispc.txt"

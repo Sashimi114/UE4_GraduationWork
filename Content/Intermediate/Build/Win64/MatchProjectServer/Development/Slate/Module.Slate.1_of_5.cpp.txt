@@ -1,0 +1,362 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Development\Slate\Definitions.Slate.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Slate/Private/Framework/Application/AnalogCursor.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Application/AnalogCursor.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/ICursor.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Application/IInputProcessor.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\InputCore\Classes\InputCoreTypes.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\InputCore\InputCoreTypes.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptMacros.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/ScriptInterface.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Templates/Casts.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UnrealType.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\Serialization/SerializedPropertyScope.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/CoreNetTypes.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/LazyObjectPtr.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PersistentObjectPtr.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyTag.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPtr.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/SoftObjectPath.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/SparseDelegate.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/Stack.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/EnumProperty.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/FieldPathProperty.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Input/Events.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Types/SlateEnums.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/EnumRange.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\SlateEnums.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericApplication.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/Accessibility/GenericAccessibleInterfaces.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/Variant.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/NetworkGuid.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericApplicationMessageHandler.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericWindowDefinition.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericWindow.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Layout/Geometry.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Layout/SlateRect.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Layout/Margin.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\Margin.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Layout/SlateRotatedRect.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateLayoutTransform.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateRenderTransform.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Layout/PaintGeometry.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\Geometry.generated.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\Events.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/SWidget.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/FrameValue.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateColor.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Styling/WidgetStyle.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\SlateColor.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Layout/Visibility.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Layout/Clipping.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Rendering/RenderingCommon.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Input/CursorReply.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Input/ReplyBase.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Input/Reply.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Input/DragAndDrop.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Input/DragAndDrop.inl
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Input/NavigationReply.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\NavigationReply.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Input/PopupMethodReply.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\SlateGlobals.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Debugging/SlateDebugging.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\FastUpdate/WidgetUpdateFlags.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Async/Future.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\atomic
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xatomic.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\intrin0.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xthreads.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\climits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xtimec.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/InvalidateWidgetReason.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\SlateDebugging.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Trace/SlateTrace.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\RenderingCommon.generated.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\Clipping.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Layout/ArrangedWidget.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Layout/LayoutGeometry.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Layout/FlowDirection.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\FlowDirection.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Types/ISlateMetaData.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Types/WidgetActiveTimerDelegate.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Textures/SlateShaderResource.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Types/PaintArgs.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\FastUpdate/WidgetProxy.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\FastUpdate/SlateInvalidationRootHandle.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Rendering/DrawElements.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Fonts/ShapedTextFwd.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Fonts/SlateFontInfo.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Fonts/CompositeFont.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\CompositeFont.generated.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\SlateFontInfo.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Fonts/FontCache.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Textures/TextureAtlas.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Fonts/FontTypes.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\FontCache.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Rendering/ShaderResourceManager.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateBrush.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\SlateBrush.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Textures/SlateTextureData.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Rendering\DrawElementPayloads.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Rendering\SlateRenderBatch.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Rendering\ElementBatcher.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateWidgetAccessibleTypes.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Layout/ArrangedChildren.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Layout/WidgetPath.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/SWindow.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/CoreDelegates.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/AES.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Types/SlateStructs.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Animation/CurveSequence.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Animation/CurveHandle.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Containers/Ticker.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleAsset.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyle.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\SlateWidgetStyle.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerBase.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateWidgetStyleContainerInterface.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\SlateWidgetStyleContainerInterface.generated.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\SlateWidgetStyleContainerBase.generated.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\SlateWidgetStyleAsset.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/DeclarativeSyntaxSupport.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/SNullWidget.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\SlotBase.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/SCompoundWidget.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Layout/Children.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/SBoxPanel.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/SPanel.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/SOverlay.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateTypes.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Sound/SlateSound.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\SlateSound.generated.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\SlateCore\SlateTypes.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Styling/CoreStyle.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Styling/ISlateStyle.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Styling/StyleDefaults.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateNoResource.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\FastUpdate/SlateInvalidationRoot.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Layout/WidgetPath.inl
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Application/SlateApplication.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Application/IMenu.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Application/SlateWindowHelper.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateRenderer.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateDynamicImageBrush.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\PixelFormat.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Application/SlateApplicationBase.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Application/ThrottleManager.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/IToolTip.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Application/MenuStack.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/SlateDelegates.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Application/GestureDetector.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Application/SlateUser.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\SlateScope.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Slate/Private/Framework/Application/GestureDetector.cpp
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Slate/Private/Framework/Application/IPlatformTextField.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Application/IPlatformTextField.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Input/IVirtualKeyboardEntry.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\Slate\IVirtualKeyboardEntry.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Slate/Private/Framework/Application/Menu.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Private\Framework/Application/Menu.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Slate/Private/Framework/Application/MenuStack.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Layout/LayoutUtils.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Text/STextBlock.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/SLeafWidget.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLayout.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Text/TextRunRenderer.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Text/TextLineHighlight.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Text/IRun.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Text/ShapedTextCacheFwd.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\Slate\TextLayout.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBox.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SPopup.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Slate/Private/Framework/Application/NavigationConfig.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Application/NavigationConfig.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/App.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/TVariant.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc\TVariantMeta.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Slate/Private/Framework/Application/SlateApplication.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Rendering/SlateDrawBuffer.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/TimeGuard.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\InputCore\Public\InputCoreModule.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Sound/ISlateSoundDevice.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Sound/NullSlateSoundDevice.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Text/PlatformTextField.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Text/Windows/WindowsPlatformTextField.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Text/GenericPlatformTextField.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/SWeakWidget.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/Images/SImage.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/SToolTip.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Application/SWindowTitleBar.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SBorder.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSpacer.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Widgets/Input/SButton.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/MetaData/DriverMetaData.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Input/HittestGrid.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\ApplicationCore\Public\HAL/PlatformApplicationMisc.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\ApplicationCore\Public\Windows/WindowsPlatformApplicationMisc.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/GenericPlatformApplicationMisc.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Widgets/Accessibility/SlateAccessibleMessageHandler.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Application/IWidgetReflector.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Commands/GenericCommands.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Commands/Commands.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Commands/UICommandInfo.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SlateCore\Public\Textures/SlateIcon.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Commands/InputChord.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\Slate\InputChord.generated.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\Slate\UICommandInfo.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Commands/InputBindingManager.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Notifications/NotificationManager.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\SlateFwd.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Private\Framework/Notifications/SlateAsyncTaskNotificationImpl.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/CoreAsyncTaskNotificationImpl.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/AsyncTaskNotification.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform/ITextInputMethodSystem.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Toolbox\Public\ToolboxModule.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Docking/TabCommands.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Slate/Private/Framework/Application/SlateSettings.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\SlateSettings.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\Slate\SlateSettings.generated.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Slate/Private/Framework/Application/SlateUser.cpp
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Slate/Private/Framework/Commands/Commands.cpp
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Slate/Private/Framework/Commands/GenericCommands.cpp
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Slate/Private/Framework/Commands/InputBindingManager.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Policies/CondensedJsonPrintPolicy.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Misc/RemoteConfigIni.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Slate/Private/Framework/Commands/InputChord.cpp
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Slate/Private/Framework/Commands/UIAction.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Commands/UIAction.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Slate/Private/Framework/Commands/UICommandDragDropOp.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Commands/UICommandDragDropOp.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/MultiBox/MultiBoxDefs.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\Slate\MultiBoxDefs.generated.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Slate/Private/Framework/Commands/UICommandInfo.cpp
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Slate/Private/Framework/Commands/UICommandList.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Slate\Public\Framework/Commands/UICommandList.h

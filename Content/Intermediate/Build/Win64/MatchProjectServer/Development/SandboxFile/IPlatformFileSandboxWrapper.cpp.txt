@@ -1,0 +1,4 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Development\SandboxFile\Definitions.SandboxFile.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SandboxFile\Public\IPlatformFileSandboxWrapper.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/IPlatformFileModule.h

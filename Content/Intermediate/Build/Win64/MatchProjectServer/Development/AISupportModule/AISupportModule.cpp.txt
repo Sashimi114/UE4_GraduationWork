@@ -1,0 +1,13 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Development\AISupportModule\Definitions.AISupportModule.h
+D:\UnrealEngine-4.26\Engine\Plugins\AI\AISupport\Source\AISupportModule\Public\AISupportModule.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\AIModule\Classes\AITypes.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/NavigationQueryFilter.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAreaBase.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\Engine\NavAreaBase.generated.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\NavigationSystem\NavArea.generated.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\NavigationSystem\NavigationQueryFilter.generated.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\NavigationSystem\Public\NavigationSystemTypes.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Engine\Classes\AI/NavigationSystemConfig.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\Engine\NavigationSystemConfig.generated.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Inc\AIModule\AITypes.generated.h

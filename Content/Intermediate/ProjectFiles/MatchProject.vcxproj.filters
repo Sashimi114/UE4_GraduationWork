@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MatchProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{11035195-FC38-4906-A9B0-039E7D042346}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MatchProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MatchProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MatchProjectServer.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A51C419B-9DE4-4B5A-BAC5-437F9E1F0B9A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MatchProject">
+      <UniqueIdentifier>{CDDC18C8-249B-48BC-8B69-6F49467B0F40}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MatchProject\MatchProject.cpp">
+      <Filter>Source\MatchProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MatchProject\MatchProject.h">
+      <Filter>Source\MatchProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MatchProject\MatchProjectCharacter.cpp">
+      <Filter>Source\MatchProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MatchProject\MatchProjectCharacter.h">
+      <Filter>Source\MatchProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MatchProject\MatchProjectGameMode.cpp">
+      <Filter>Source\MatchProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MatchProject\MatchProjectGameMode.h">
+      <Filter>Source\MatchProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MatchProject\CharacterBase.cpp">
+      <Filter>Source\MatchProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MatchProject\PlayerCharacter.cpp">
+      <Filter>Source\MatchProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MatchProject\PlayerCharacter.h">
+      <Filter>Source\MatchProject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MatchProject\CharacterBase.h">
+      <Filter>Source\MatchProject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\MatchProject\MatchProject.Build.cs">
+      <Filter>Source\MatchProject</Filter>
+    </None>
+    <ClInclude Include="..\..\Source\MatchProject\BlogComboGameplayAbility.h">
+      <Filter>Source\MatchProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MatchProject\BlogComboGameplayAbility.cpp">
+      <Filter>Source\MatchProject</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

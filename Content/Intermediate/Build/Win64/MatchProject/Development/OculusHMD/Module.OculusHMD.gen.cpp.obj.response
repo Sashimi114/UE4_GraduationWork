@@ -1,0 +1,211 @@
+/Zc:inline
+/nologo
+/Oi
+/c
+/Gw
+/Gy
+/Zm1000
+/wd4819
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/source-charset:utf-8
+/execution-charset:utf-8
+/Ob2
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/D_HAS_EXCEPTIONS=0
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/we4456
+/we4458
+/we4459
+/wd4463
+/wd4244
+/wd4838
+/I .
+/I Runtime\Renderer\Private
+/I Runtime\OpenGLDrv\Private
+/I Runtime\VulkanRHI\Private
+/I Runtime\Engine\Classes\Components
+/I Runtime\Engine\Classes\Kismet
+/I Runtime\VulkanRHI\Private\Windows
+/I ..\Plugins\Runtime\Oculus\OculusVR\Source\OculusMR\Public
+/I Runtime\Windows\D3D11RHI\Private
+/I Runtime\Windows\D3D11RHI\Private\Windows
+/I Runtime\D3D12RHI\Private
+/I Runtime\D3D12RHI\Private\Windows
+/I ..\Plugins\Runtime\Oculus\OculusVR\Source\OculusHMD\Private
+/I Runtime
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\CoreUObject
+/I Runtime\CoreUObject\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\Engine
+/I Runtime\Engine\Classes
+/I Runtime\Engine\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\NetCore
+/I Runtime\Net
+/I Runtime\Net\Core\Classes
+/I Runtime\Net\Core\Public
+/I Runtime\ApplicationCore\Public
+/I Runtime\RHI\Public
+/I Runtime\Json\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\SlateCore
+/I Runtime\SlateCore\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\InputCore
+/I Runtime\InputCore\Classes
+/I Runtime\InputCore\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\Slate
+/I Runtime\Slate\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\ImageWrapper
+/I Runtime\ImageWrapper\Public
+/I Runtime\Messaging\Public
+/I Runtime\MessagingCommon\Public
+/I Runtime\RenderCore\Public
+/I Runtime\Analytics
+/I Runtime\Analytics\AnalyticsET\Public
+/I Runtime\Analytics\Analytics\Public
+/I Runtime\Sockets\Public
+/I Runtime\Net\Common\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\AssetRegistry
+/I Runtime\AssetRegistry\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\EngineMessages
+/I Runtime\EngineMessages\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\EngineSettings
+/I Runtime\EngineSettings\Classes
+/I Runtime\EngineSettings\Public
+/I Runtime\SynthBenchmark\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\Renderer
+/I Runtime\Renderer\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\GameplayTags
+/I Runtime\GameplayTags\Classes
+/I Runtime\GameplayTags\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\PacketHandler
+/I Runtime\PacketHandlers
+/I Runtime\PacketHandlers\PacketHandler\Classes
+/I Runtime\PacketHandlers\PacketHandler\Public
+/I Runtime\PacketHandlers\ReliabilityHandlerComponent\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\AudioPlatformConfiguration
+/I Runtime\AudioPlatformConfiguration\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\MeshDescription
+/I Runtime\MeshDescription\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\StaticMeshDescription
+/I Runtime\StaticMeshDescription\Public
+/I Runtime\PakFile\Public
+/I Runtime\RSA\Public
+/I Runtime\NetworkReplayStreaming
+/I Runtime\NetworkReplayStreaming\NetworkReplayStreaming\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\PhysicsCore
+/I Runtime\PhysicsCore\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\DeveloperSettings
+/I Runtime\DeveloperSettings\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\Chaos
+/I Runtime\Experimental
+/I Runtime\Experimental\Chaos\Public
+/I Runtime\Experimental\ChaosCore\Public
+/I ThirdParty\Intel
+/I Runtime\Experimental\Voronoi\Public
+/I ThirdParty
+/I Runtime\SignalProcessing\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\AudioExtensions
+/I Runtime\AudioExtensions\Public
+/I Runtime\AudioMixerCore\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\PropertyAccess
+/I Runtime\PropertyAccess\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\ClothingSystemRuntimeInterface
+/I Runtime\ClothingSystemRuntimeInterface\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\AudioMixer
+/I Runtime\AudioMixer\Classes
+/I Runtime\AudioMixer\Public
+/I Developer
+/I Developer\TargetPlatform\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\AnimationCore
+/I Runtime\AnimationCore\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\MaterialShaderQualitySettings
+/I Runtime\MaterialShaderQualitySettings\Classes
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\MediaAssets
+/I Runtime\MediaAssets\Public
+/I Runtime\Media\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\MediaUtils
+/I Runtime\MediaUtils\Public
+/I Runtime\OpenGLDrv\Public
+/I Runtime\VulkanRHI\Public
+/I ThirdParty\Oculus
+/I ThirdParty\Oculus\OVRPlugin\OVRPlugin\Include
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\ProceduralMeshComponent
+/I ..\Plugins\Runtime\ProceduralMeshComponent\Source
+/I ..\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\InteractiveToolsFramework
+/I Runtime\Experimental\InteractiveToolsFramework\Public
+/I Runtime\Projects\Public
+/I ThirdParty\OpenGL
+/I Runtime\Windows
+/I Runtime\Windows\D3D11RHI\Public
+/I Runtime\D3D12RHI\Public
+/I ThirdParty\Windows
+/I ThirdParty\NVIDIA
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\OculusHMD
+/I ..\Plugins\Runtime\Oculus\OculusVR\Source
+/I ..\Plugins\Runtime\Oculus\OculusVR\Source\OculusHMD\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\HeadMountedDisplay
+/I Runtime\HeadMountedDisplay\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\AugmentedReality
+/I Runtime\AugmentedReality\Public
+/I D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\MRMesh
+/I Runtime\MRMesh\Public
+/I Runtime\Launch\Public
+/I Developer\ProfilerService\Public
+/I ThirdParty\PhysX3\PxShared\include
+/I ThirdParty\PhysX3\PxShared\include\cudamanager
+/I ThirdParty\PhysX3\PxShared\include\filebuf
+/I ThirdParty\PhysX3\PxShared\include\foundation
+/I ThirdParty\PhysX3\PxShared\include\pvd
+/I ThirdParty\PhysX3\PxShared\include\task
+/I ThirdParty\PhysX3\PhysX_3.4\Include
+/I ThirdParty\PhysX3\PhysX_3.4\Include\cooking
+/I ThirdParty\PhysX3\PhysX_3.4\Include\common
+/I ThirdParty\PhysX3\PhysX_3.4\Include\extensions
+/I ThirdParty\PhysX3\PhysX_3.4\Include\geometry
+/I ThirdParty\PhysX3\APEX_1.4\include
+/I ThirdParty\PhysX3\APEX_1.4\include\clothing
+/I ThirdParty\PhysX3\APEX_1.4\include\nvparameterized
+/I ThirdParty\PhysX3\APEX_1.4\include\legacy
+/I ThirdParty\PhysX3\APEX_1.4\include\PhysX3
+/I ThirdParty\PhysX3\APEX_1.4\common\include
+/I ThirdParty\PhysX3\APEX_1.4\common\include\autogen
+/I ThirdParty\PhysX3\APEX_1.4\framework\include
+/I ThirdParty\PhysX3\APEX_1.4\framework\include\autogen
+/I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
+/I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
+/I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
+/I ThirdParty\Windows\PIX\include
+/I ThirdParty\Windows\DirectX\Include
+/I ThirdParty\Windows\D3DX12\include
+/I ThirdParty\NVIDIA\nvapi
+/I ThirdParty\NVIDIA\NVaftermath
+/I ThirdParty\Intel\MetricsDiscovery\MetricsDiscoveryHelper\build\include\metrics_discovery
+/I ThirdParty\Intel\ExtensionsFramework
+/I ThirdParty\Vulkan\Include
+/I ThirdParty\Vulkan\Include\vulkan
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"D:\MatchProject\Intermediate\Build\Win64\MatchProject\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"D:\MatchProject\Intermediate\Build\Win64\MatchProject\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"D:\MatchProject\Intermediate\Build\Win64\MatchProject\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"D:\MatchProject\Intermediate\Build\Win64\MatchProject\Development\OculusHMD\Module.OculusHMD.gen.cpp"
+/FI"D:\MatchProject\Intermediate\Build\Win64\MatchProject\Development\OculusHMD\Definitions.OculusHMD.h"
+/Fo"D:\MatchProject\Intermediate\Build\Win64\MatchProject\Development\OculusHMD\Module.OculusHMD.gen.cpp.obj"
+/TP
+/GR-
+/W4

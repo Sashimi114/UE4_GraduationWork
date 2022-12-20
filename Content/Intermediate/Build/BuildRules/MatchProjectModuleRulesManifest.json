@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"D:\\MatchProject\\Source\\MatchProject\\MatchProject.Build.cs",
+		"D:\\MatchProject\\Source\\MatchProject.Target.cs",
+		"D:\\MatchProject\\Source\\MatchProjectEditor.Target.cs",
+		"D:\\MatchProject\\Source\\MatchProjectServer.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

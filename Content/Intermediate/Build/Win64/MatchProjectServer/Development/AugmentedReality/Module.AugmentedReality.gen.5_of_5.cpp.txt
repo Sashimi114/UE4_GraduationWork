@@ -1,0 +1,4 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Development\AugmentedReality\Definitions.AugmentedReality.h
+D:/MatchProject/Intermediate/Build/Win64/MatchProjectServer/Inc/AugmentedReality/AugmentedReality.init.gen.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

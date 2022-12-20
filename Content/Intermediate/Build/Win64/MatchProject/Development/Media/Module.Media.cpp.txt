@@ -1,0 +1,32 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProject\Development\Media\Definitions.Media.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Media/Private/IMediaTextureSample.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Media\Public\IMediaTextureSample.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Media\Public\IMediaTimeSource.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Media/Private/MediaClock.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Media\Private\MediaClock.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Media\Public\IMediaClock.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Media\Public\IMediaClockSink.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Media/Private/MediaModule.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Media\Public\IMediaModule.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/RunnableThread.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformAffinity.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAffinity.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Async/Future.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\atomic
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\cstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xatomic.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\intrin0.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xthreads.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\climits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\xtimec.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Media\Public\IMediaCaptureSupport.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Media\Public\IMediaPlayerFactory.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Media\Public\IMediaInfo.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Media\Private\MediaTicker.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Media\Public\IMediaTicker.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/Media/Private/MediaTicker.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Media\Public\IMediaTickable.h

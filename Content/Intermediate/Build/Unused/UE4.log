@@ -1,0 +1,7 @@
+﻿  Creating makefile for UE4Editor (no existing makefile)
+  Building UE4Editor and ShaderCompileWorker...
+  Using Visual Studio 2019 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 1 action with 8 processes...
+    [1/1] UE4Editor.target
+  Total time in Parallel executor: 2.86 seconds
+  Total execution time: 130.41 seconds

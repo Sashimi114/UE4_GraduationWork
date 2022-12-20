@@ -1,0 +1,14 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Development\AudioCaptureCore\Definitions.AudioCaptureCore.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/AudioCaptureCore/Private/AudioCaptureCore.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\AudioCaptureCore\Public\AudioCaptureCore.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\AudioCaptureCore\Public\AudioCaptureDeviceInterface.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeBool.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/Delay.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/Dsp.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/WaveTableOsc.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/EnvelopeFollower.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\AudioCaptureCore\Private\AudioCaptureInternal.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\AudioCaptureCore\Public\AudioCaptureCoreLog.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Features/IModularFeatures.h
+D:/UnrealEngine-4.26/Engine/Source/Runtime/AudioCaptureCore/Private/AudioCaptureCoreModule.cpp
+D:\UnrealEngine-4.26\Engine\Source\Runtime\AudioCaptureCore\Public\AudioCaptureCoreModule.h

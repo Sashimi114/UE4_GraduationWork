@@ -1,0 +1,13 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProject\Development\MagicLeapPrivileges\Definitions.MagicLeapPrivileges.h
+D:/UnrealEngine-4.26/Engine/Plugins/Lumin/MagicLeap/Source/MagicLeapPrivileges/Private/MagicLeapPrivilegesFunctionLibrary.cpp
+D:\UnrealEngine-4.26\Engine\Plugins\Lumin\MagicLeap\Source\MagicLeapPrivileges\Public\MagicLeapPrivilegesFunctionLibrary.h
+D:\UnrealEngine-4.26\Engine\Plugins\Lumin\MagicLeap\Source\MagicLeapPrivileges\Public\MagicLeapPrivilegeTypes.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\MagicLeapPrivileges\MagicLeapPrivilegeTypes.generated.h
+D:\MatchProject\Intermediate\Build\Win64\MatchProject\Inc\MagicLeapPrivileges\MagicLeapPrivilegesFunctionLibrary.generated.h
+D:\UnrealEngine-4.26\Engine\Plugins\Lumin\MagicLeap\Source\MagicLeapPrivileges\Private\MagicLeapPrivilegesModule.h
+D:\UnrealEngine-4.26\Engine\Plugins\Lumin\MagicLeap\Source\MagicLeapPrivileges\Public\IMagicLeapPrivilegesModule.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Core\Public\Lumin/CAPIShims/LuminAPI.h
+D:\UnrealEngine-4.26\Engine\Plugins\Lumin\MagicLeap\Source\MagicLeapPrivileges\Public\MagicLeapPrivilegeUtils.h
+D:\UnrealEngine-4.26\Engine\Plugins\Lumin\MLSDK\Source\MLSDK\Public\Lumin/CAPIShims/LuminAPIPrivileges.h
+D:/UnrealEngine-4.26/Engine/Plugins/Lumin/MagicLeap/Source/MagicLeapPrivileges/Private/MagicLeapPrivilegesModule.cpp
+D:/UnrealEngine-4.26/Engine/Plugins/Lumin/MagicLeap/Source/MagicLeapPrivileges/Private/MagicLeapPrivilegeUtils.cpp

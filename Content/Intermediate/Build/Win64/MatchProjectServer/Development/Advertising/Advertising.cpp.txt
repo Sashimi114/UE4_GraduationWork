@@ -1,0 +1,3 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Development\Advertising\Definitions.Advertising.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Advertising\Advertising\Public\Advertising.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\Advertising\Advertising\Public\Interfaces/IAdvertisingProvider.h

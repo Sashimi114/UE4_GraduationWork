@@ -1,0 +1,19 @@
+{
+	"Targets": [
+		{
+			"Name": "MatchProject",
+			"Path": "D:\\MatchProject\\Source\\MatchProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MatchProjectEditor",
+			"Path": "D:\\MatchProject\\Source\\MatchProjectEditor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "MatchProjectServer",
+			"Path": "D:\\MatchProject\\Source\\MatchProjectServer.Target.cs",
+			"Type": "Server"
+		}
+	]
+}

@@ -1,0 +1,5 @@
+D:\MatchProject\Intermediate\Build\Win64\MatchProjectServer\Development\CrunchCompression\Definitions.CrunchCompression.h
+D:\UnrealEngine-4.26\Engine\Source\Runtime\CrunchCompression\Public\CrunchCompression.h
+D:\UnrealEngine-4.26\Engine\Source\ThirdParty\Crunch\include\crn_decomp.h
+D:\UnrealEngine-4.26\Engine\Source\ThirdParty\Crunch\include\crn_defs.h
+D:\UnrealEngine-4.26\Engine\Source\ThirdParty\Crunch\include\crnlib.h
