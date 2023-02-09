@@ -11,7 +11,7 @@ public class MatchProject : ModuleRules
 		PublicDependencyModuleNames.AddRange(new string[] 
 		{ "Core", "CoreUObject", "Engine", "InputCore", "HeadMountedDisplay"
 		, "GameplayAbilities", "GameplayTags", "GameplayTasks" 
-		, "HTTP", "WebSockets" });
+		, "HTTP", "WebSockets","Slate", "SlateCore" });
 
 		PublicSystemIncludePaths.Add(System.IO.Path.Combine(ModuleDirectory, "gs2-unreal-engine-sdk/"));
 	}
